@@ -72,7 +72,7 @@ The platform provides a realistic execution environment while maintaining safety
 
 This project is **Source-Available**, and is **NOT Open Source**. The code is subject to strict limitations on commercial use and modification.
 
-The code is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**. The complete legal text of this license is provided in the **[LICENSE]** file.
+The code is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**. The complete legal text of this license is provided in the **[LICENSE](LICENSE)** file.
 
 ### What You **CAN** Do (Non-Commercial Use Only)
 

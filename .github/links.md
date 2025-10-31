@@ -1,1 +1,1 @@
-[Перейти к ветке frontend](../../tree/frontend)
+[Перейти к ветке frontend](https://github.com/bebreshka/osvmlua/tree/frontend)
